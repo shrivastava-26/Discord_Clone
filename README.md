@@ -29,8 +29,7 @@ Any additional styling is handled through a custom styles.css file if needed.
 
 ## 🎨 Demo
 
-Check out the live clone here: Live Demo
-
+[Check out the live clone here: Live Demo](https://discord-clonne.vercel.app/)
 ## 📅 Clone the repository:
 
     git clone https://github.com/your-username/discord-landing-page-clone.git
